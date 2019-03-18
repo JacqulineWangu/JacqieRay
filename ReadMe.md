@@ -2,7 +2,7 @@
 #### This is a PortFolio about myself#JacqieRay.,16th March 2019
 #### By Jacquline Wangu. **{Google search.com}**
 ## Description
-This is a detailed description of JacqieRay.It has a home page where you navigate and get a sideNav with an option of ABOUT,GALLERY and CONTACT.In the Gallery you will find photos of me.In the contact there are my numbers to be able to reach me with.In my about is my background information.
+This is a detailed description of JacqieRay.It has a home page where you navigate and get a sideNav with an option of ABOUT,GALLERY and CONTACT.In the Gallery you will find photos of me.In the contact there are my numbers to be able to reach me with.In the about is my background information.
 ## Setup/Installation Requirements
 * Open home
 * When home loads

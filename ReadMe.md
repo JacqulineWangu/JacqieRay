@@ -1,10 +1,10 @@
 # My PortFolio
 #### This is a PortFolio about myself#JacqieRay.,16th March 2019
-#### By Jacquline Wangu. **{Google search.com}**
+#### By Jacquline Wangu.
 ## Description
 This is a detailed description of JacqieRay.It has a home page where you navigate and get a sideNav with an option of ABOUT,GALLERY and CONTACT.In the Gallery you will find photos of me.In the contact there are my numbers to be able to reach me with.In the About is my background information.
 ## Setup/Installation Requirements
-* Open home
+* Open HOME.
 * When home loads
 * An ABOUT,GALLERY and CONTACT sidenav pops up.
 * Navigate into ABOUT and there is my background information.

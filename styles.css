@@ -3,6 +3,9 @@ h1 {
   font-family: monospace;
   font-size: 80px
 }
+.card{
+  margin-top: 10px;
+}
 
 .sidenav {
   height: 100%;
